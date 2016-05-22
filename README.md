@@ -8,3 +8,4 @@
 |-----|-------------|--------------|----------|
 | 1   |Property     |-|Javascript|
 | 2   |Instance     |-|Javascript|
+| 3   |Keyword      |-|Javascript|
