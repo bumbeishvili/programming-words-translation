@@ -7,3 +7,4 @@
 |Index|English value|Georgian value| Language |
 |-----|-------------|--------------|----------|
 | 1   |Property     |-|Javascript|
+| 2   |Instance     |-|Javascript|
